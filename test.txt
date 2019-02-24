@@ -1,0 +1,1 @@
+System.out.println("Õº ÈID:" + doc.get("id"));
